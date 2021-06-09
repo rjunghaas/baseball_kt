@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Player VORP</string>
+    <string name="player_name_label">Calculate VORP for a player</string>
+    <string name="player_search_hint">Enter Player Name</string>
+    <string name="start_date_hint">Enter Start Date</string>
+    <string name="end_date_hint">Enter End Date</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="detail_button_text">Detail</string>
+
+    <string name="career_title">Career To Date</string>
+    <string name="three_seasons_title">Last 3 Seasons</string>
+    <string name="this_year_title">This Season</string>
+    <string name="this_month_title">This Month</string>
+    <string name="two_weeks_ago_title">Last 2 Weeks</string>
+</resources>
